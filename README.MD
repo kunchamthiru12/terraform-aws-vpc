@@ -36,6 +36,8 @@ database_route_table_tags (Optional) - Default value is empty. type is map
 is_peering_required (Optional) - default value is false
 acceptor_vpc_id (Optional) - default value is default VPC ID
 vpc_peering_tags (Optional) - Default value is empty. type is map
+
+
 Outputs
 vpc_id - VPC ID created
 public_subnet_ids - 2 public subnet ID created
