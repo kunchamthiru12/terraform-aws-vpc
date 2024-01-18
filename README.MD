@@ -1,7 +1,8 @@
 AWS VPC Module
-This module creates following resources. We are using HA, we are getting first 2 AZ automatically.
 
-VPC
+.This module creates following resources. We are using HA, we are getting first 2 AZ automatically.
+
+*VPC
 Internet Gateway with VPC association
 2 Public subnets in 1a and 1b
 2 Private subnets in 1a and 1b
